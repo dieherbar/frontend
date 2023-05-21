@@ -1,0 +1,16 @@
+{
+    "en":{
+        "LOGIN": "Login",
+        "LOGOUT": "Logout",
+        "PASSWORD": "Password",
+        "USEREMAIL": "email",
+        "SUBMIT": "Submit"
+    },
+    "es":{
+        "LOGIN": "Acceder",
+        "LOGOUT": "Cerrar sesión",
+        "PASSWORD": "Contraseña",
+        "USEREMAIL": "email",
+        "SUBMIT": "Enviar"
+    }
+}

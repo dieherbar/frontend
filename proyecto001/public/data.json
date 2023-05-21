@@ -1,6 +1,5 @@
 {
-        "results": [
-            {
+"el1":{
     "id": 1,
     "name": "Rick Sanchez",
     "status": "Alive",
@@ -72,7 +71,7 @@
     "url": "https://rickandmortyapi.com/api/character/1",
     "created": "2017-11-04T18:48:46.250Z"
   },
-  {
+  "el2":{
     "id": 2,
     "name": "Morty Smith",
     "status": "Alive",
@@ -144,7 +143,7 @@
     "url": "https://rickandmortyapi.com/api/character/2",
     "created": "2017-11-04T18:50:21.651Z"
   },
-  {
+  "el3":{
     "id": 3,
     "name": "Summer Smith",
     "status": "Alive",
@@ -207,7 +206,7 @@
     "url": "https://rickandmortyapi.com/api/character/3",
     "created": "2017-11-04T19:09:56.428Z"
   },
-  {
+  "el4":{
     "id": 130,
     "name": "Galactic Federation President",
     "status": "Dead",
@@ -229,7 +228,7 @@
     "url": "https://rickandmortyapi.com/api/character/130",
     "created": "2017-12-26T19:49:41.160Z"
 },
-{
+"el5":{
     "id": 255,
     "name": "Orthodox Jew",
     "status": "Alive",
@@ -251,4 +250,4 @@
     "url": "https://rickandmortyapi.com/api/character/255",
     "created": "2017-12-31T13:19:29.825Z"
   }
-]}
+}

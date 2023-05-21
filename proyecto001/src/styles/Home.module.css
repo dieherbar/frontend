@@ -6,7 +6,11 @@
   padding: 6rem;
   min-height: 100vh;
 }
-
+#reloj{
+  border: 2px solid blueviolet;
+  font-size: large;
+  height: 2rem;
+}
 .description {
   display: inherit;
   justify-content: inherit;
